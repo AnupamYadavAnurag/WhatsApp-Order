@@ -1,20 +1,24 @@
-# AIShop WhatsApp Cart - Vercel Ready
+# 🛍️ AIShop WhatsApp Cart
 
-1. Extract the ZIP.
-2. Open the folder in VS Code.
-3. Run `npm install`
-4. Run `npm run build`
-5. Push the project to GitHub.
-6. Import the repository in Vercel.
+### Modern E-Commerce Cart with WhatsApp Checkout
 
-Vercel:
-- Framework: Vite
-- Build: npm run build
-- Output: dist
-- Install: npm install
+AIShop WhatsApp Cart is a modern, responsive, and lightweight e-commerce web application that allows customers to browse products, add multiple items to a cart, manage quantities, calculate the total automatically, and place their order directly through **WhatsApp**.
 
-IMPORTANT: Change `WHATSAPP_NUMBER` in `src/App.jsx`. Use international format without +, spaces or hyphens.
+Built with **React + Vite**, the project is optimized for fast performance and can be easily deployed on **Vercel** or any static hosting platform.
 
-Do NOT upload `node_modules`; `.gitignore` is included.
+---
 
-Features: Order Now, Add to Cart, multiple products, quantity controls, remove/clear cart, grand total, WhatsApp checkout, responsive UI.
+## ✨ Features
+
+### 🛒 Smart Shopping Cart
+
+* Add products to cart
+* Add multiple products
+* Increase/decrease product quantity
+* Remove individual products
+* Clear the complete cart
+* Automatic grand total calculation
+* Real-time cart updates
+* Order Now functionality
+
+### 💬 WhatsApp Chec
