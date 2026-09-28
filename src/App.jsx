@@ -24,6 +24,34 @@ const products = [
     image: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=900",
     description: "Mechanical keyboard for work, coding and gaming."
   },
+   {
+    id: "WH-001",
+    name: "Wireless Headphones",
+    price: 1299,
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900",
+    description: "Premium wireless headphones with clear sound and deep bass."
+  },
+   {
+    id: "WH-001",
+    name: "Wireless Headphones",
+    price: 1299,
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900",
+    description: "Premium wireless headphones with clear sound and deep bass."
+  },
+   {
+    id: "WH-001",
+    name: "Wireless Headphones",
+    price: 1299,
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900",
+    description: "Premium wireless headphones with clear sound and deep bass."
+  },
+   {
+    id: "WH-001",
+    name: "Wireless Headphones",
+    price: 1299,
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900",
+    description: "Premium wireless headphones with clear sound and deep bass."
+  },
   {
     id: "MS-004",
     name: "Wireless Mouse",
